@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @cCHRisB
 
 - 🎓 OU 2020 graduate, now a software engineer at public corporations.
-- 💻 C++ is my main jam, but I enjoy0 experimenting with other languages and tech.
+- 💻 C++ is my main jam, but I enjoy experimenting with other languages and tech.
 - 🎮 Making Unreal Engine games—most projects are private for now, but that’s changing soon!
 - 👀 Always learning, especially about game development and all the extra “non-programmer” hats it requires.
 - 📚 Favorite games: The Binding of Isaac, Kingdom Hearts, Undertale (love a good story!).
